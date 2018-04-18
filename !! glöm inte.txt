@@ -1,0 +1,6 @@
+kör manuellt
+ta bort kamerans skärpning
+stäng av auto vitbalans
+stäng av d-lighting
+stäng av brusreduktion
+GLÖM INTE ÄNDRA GRUPPSTORLEK!
